@@ -1,0 +1,1 @@
+[{"Id":"d9452733-bd7e-4d31-85be-c8e7c2139b75","Nome":"Coca-Cola","Quantidade":5,"Categoria":"Bebidas","Preco":5.1,"Prioridade":"Necess\u00E1rio","Marca":"Coca-Cola","Utilidade":"Beber","Consumivel":"Sim","Perecivel":"Sim"}]
